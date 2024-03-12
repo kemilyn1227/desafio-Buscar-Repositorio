@@ -6,8 +6,6 @@
 <br/>
 <p>Site criado através do curso de React da <a href="https://www.dio.me/" target="_blank">Dio,</a>  com o objetivo de buscar e listar repositórios do github com o uso de api e react.</p>
 
-<a href="https://kemilyn1227.github.io/gitfind/" target="_blank">Acesse aqui </a>
-
 <h3>Tecnologias Utilizadas!</h3>
 
 
